@@ -215,3 +215,5 @@ outputs/
 checkpoints/
 kaggle.json
 
+
+*:Zone.Identifier
