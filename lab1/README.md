@@ -1,4 +1,5 @@
 # Лабораторная работа 1: классификация изображений фруктов и овощей
+Цирулев Николай Владимирович М8О-408Б-22
 
 Датасет: [Fruits and Vegetables Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition). В нем 36 классов, а изображения уже разложены по папкам `train`, `validation` и `test`.
 
